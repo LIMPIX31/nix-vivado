@@ -70,6 +70,9 @@ let
 
         libusb1
         libftdi1
+
+        gcc
+        libyaml
       ];
 
     profile = ''
